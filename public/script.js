@@ -10,15 +10,6 @@ formDetails.addEventListener("submit", (e)=>{
 var email=res.email
 var username=res.firstName
 console.log(email)
-// fetch('https://comm-engine.ks-tech.in/api/v1',{
-//   method:'POST',
-//   headers:{
-//       'Content-Type':'application/json',
-//   },
-//   body:JSON.stringify(res)
-  
-// }).then(res=>res.json()).catch(error=>console.log(error))
-
 
 
 
